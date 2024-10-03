@@ -32,3 +32,6 @@ contract MyLudoGame {
         emit PlayerMoved(msg.sender, playerPositions[msg.sender]);
     }
 }
+
+
+
